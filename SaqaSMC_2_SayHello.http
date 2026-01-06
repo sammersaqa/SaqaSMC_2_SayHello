@@ -1,0 +1,6 @@
+@SaqaSMC_2_SayHello_HostAddress = http://localhost:5083/swagger
+
+GET {{SaqaSMC_2_SayHello_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
